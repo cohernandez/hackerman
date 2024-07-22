@@ -1,0 +1,9 @@
+python-whois
+typer
+python3-nmap
+lxml
+requests
+python-wappalyzer
+subprocess
+json
+wappalyzer
